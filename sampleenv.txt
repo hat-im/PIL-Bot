@@ -1,0 +1,11 @@
+TOKEN = your token here
+PREFIX = set of letters to activate bot
+
+#Server ID
+SERVERID = your server id here
+
+# Path For Updating Roles
+PATH_TO_ROLES = directory from which bot will read the excel sheets
+
+# Log file name
+LOG_FILE = name of log file
