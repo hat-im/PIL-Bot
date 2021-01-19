@@ -1,0 +1,22 @@
+{
+    "MAINROLE" : {
+        "roleName": "organiser",
+        "fileName": "organiser"
+    },
+    "organiser": {
+        "roleName": "organiser",
+        "fileName": "organiser"
+    },
+    "test1": {
+        "roleName": "test1",
+        "fileName": "test1"
+    },
+    "test2": {
+        "roleName": "test2",
+        "fileName": "test2"
+    },
+    "test3": {
+        "roleName": "test3",
+        "fileName": "test3"
+    }
+}
